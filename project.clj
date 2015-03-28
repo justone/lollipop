@@ -1,6 +1,7 @@
 (defproject lollipop "0.1.0-SNAPSHOT"
   :description "Something of an 'echo' server.  You give it something and it will return the same."
   :url "https://github.com/justone/lollipop"
+  :license {:name "MIT" :url "http://opensource.org/licenses/MIT"}
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.3.1"]
